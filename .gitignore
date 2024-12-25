@@ -1,0 +1,6 @@
+.env
+__pycache__
+.venv
+app.log
+dummy.py
+erd.py
